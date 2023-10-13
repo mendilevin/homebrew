@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the directory where your brew lists and git repo are
-#cd ~/Documents/MyProject/homebrew/files/
+cd ~/Documents/MyProject/GitHubRepo/homebrew
 
 # Update brew and cask lists
 echo "Updating brew and cask lists..."
