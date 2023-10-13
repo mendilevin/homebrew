@@ -105,7 +105,6 @@ terragrunt
 tree-sitter
 unbound
 watch
-wget
 xorgproto
 xz
 yadm
