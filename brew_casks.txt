@@ -12,8 +12,8 @@ notion
 postman
 powershell
 pycharm
+rectangle
 slack
-spectacle
 temurin
 visual-studio-code
 vlc

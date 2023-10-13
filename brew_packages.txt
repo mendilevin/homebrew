@@ -29,7 +29,6 @@ gnupg
 gnutls
 graphite2
 groovy
-guile
 harfbuzz
 hebcal
 helm
@@ -52,11 +51,9 @@ libidn2
 libksba
 libnghttp2
 libpng
-libpthread-stubs
 libssh2
 libtasn1
 libtiff
-libtool
 libunistring
 libusb
 libuv
@@ -70,7 +67,6 @@ libyaml
 little-cms2
 lz4
 lzo
-m4
 mpdecimal
 ncurses
 nettle
@@ -86,7 +82,6 @@ p11-kit
 pcre2
 pinentry
 pixman
-pkg-config
 powerlevel10k
 pwgen
 pycparser
@@ -117,4 +112,5 @@ yadm
 yamllint
 yq
 zsh-autocomplete
+zsh-autosuggestions
 zstd
