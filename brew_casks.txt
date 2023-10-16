@@ -8,6 +8,7 @@ grammarly-desktop
 iterm2
 karabiner-elements
 lens
+maccy
 notion
 postman
 powershell
