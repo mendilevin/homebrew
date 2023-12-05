@@ -27,6 +27,7 @@ glib
 gmp
 gnupg
 gnutls
+go
 graphite2
 groovy
 harfbuzz
@@ -88,13 +89,18 @@ pycparser
 pygments
 python-certifi
 python-cryptography
+python-dateutil
+python-jinja
 python-lxml
 python-markupsafe
 python-packaging
+python-pathspec
+python-pyparsing
 python-pytz
 python-setuptools
 python@3.10
 python@3.11
+python@3.12
 pyyaml
 readline
 rtmpdump
