@@ -109,6 +109,7 @@ sqlite
 telnet
 terraform
 terragrunt
+tree
 tree-sitter
 unbound
 watch
