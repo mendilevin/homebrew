@@ -38,7 +38,9 @@ icu4c
 jansson
 jpeg-turbo
 jq
+k9s
 krew
+kube-ps1
 kubectx
 kubernetes-cli
 ldns
@@ -83,6 +85,7 @@ p11-kit
 pcre2
 pinentry
 pixman
+popeye
 powerlevel10k
 pwgen
 pycparser
@@ -111,6 +114,7 @@ readline
 rtmpdump
 six
 sqlite
+stern
 telnet
 terraform
 terragrunt
