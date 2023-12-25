@@ -20,4 +20,4 @@ visual-studio-code
 vlc
 vscodium
 warp
-zoom
+
