@@ -70,6 +70,7 @@ libyaml
 little-cms2
 lz4
 lzo
+maven
 mpdecimal
 ncurses
 nettle
