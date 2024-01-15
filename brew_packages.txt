@@ -127,6 +127,7 @@ wget
 xorgproto
 xz
 yadm
+yamlfmt
 yamllint
 yq
 zsh-autocomplete
