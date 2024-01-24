@@ -43,6 +43,7 @@ krew
 kube-ps1
 kubectx
 kubernetes-cli
+kubeseal
 ldns
 libassuan
 libcbor

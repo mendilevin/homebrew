@@ -1,6 +1,7 @@
 adobe-acrobat-reader
 alt-tab
 bartender
+doll
 dozer
 drawio
 google-drive
