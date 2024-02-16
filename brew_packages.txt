@@ -89,6 +89,7 @@ pinentry
 pixman
 popeye
 powerlevel10k
+powershell
 pwgen
 pycparser
 pygments
