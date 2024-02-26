@@ -120,6 +120,7 @@ sqlite
 stern
 telnet
 terraform
+terraformer
 terragrunt
 tree
 tree-sitter
