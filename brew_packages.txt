@@ -8,8 +8,10 @@ c-ares
 ca-certificates
 cairo
 cask
+certifi
 cffi
 coreutils
+cryptography
 curl
 ddate
 direnv
