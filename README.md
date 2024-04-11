@@ -1,4 +1,5 @@
 # homebrew
+https://brew.sh/
 
 # clone
 git clone https://github.com/mendilevin/homebrew
