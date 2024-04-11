@@ -8,7 +8,7 @@ cd homebrew
 chmode +x install_brew_packages.sh
 
 # Add brew to PATH
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/amiramlevi/.zprofile
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> $HOME/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # run the installation
