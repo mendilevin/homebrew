@@ -8,6 +8,10 @@ fi
 # Update Homebrew
 brew update
 
+# Add Homebrew to your PATH
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> $HOME/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
 # Install brew packages
 while read p; do
   brew install --formula "$p"
