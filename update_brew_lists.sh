@@ -14,6 +14,6 @@ brew list --cask > ~/Documents/MyProject/GitHubRepo/homebrew/brew_casks.txt
 echo "brew_casks.txt updated"
 
 # Git operations
-git add brew_packages.txt brew_casks.txt
-git commit -m "Update brew lists"
+git add .
+git commit -m "Update brew folder"
 git push origin main

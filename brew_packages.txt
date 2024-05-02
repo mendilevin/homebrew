@@ -2,6 +2,7 @@ amazon-ecs-cli
 ansible
 ansible-lint
 azure-cli
+bash
 bdw-gc
 black
 brotli
