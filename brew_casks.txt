@@ -1,6 +1,8 @@
 adobe-acrobat-reader
+alfred
 alt-tab
 bartender
+chatgpt
 displaylink
 doll
 dozer
@@ -9,6 +11,7 @@ google-drive
 grammarly-desktop
 iterm2
 karabiner-elements
+keyboard-maestro
 lens
 maccy
 notion
@@ -16,6 +19,7 @@ postman
 powershell
 pycharm
 rectangle
+session-manager-plugin
 slack
 temurin
 visual-studio-code
