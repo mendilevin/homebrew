@@ -1,6 +1,7 @@
 adobe-acrobat-reader
 alfred
 alt-tab
+android-studio
 bartender
 chatgpt
 displaylink

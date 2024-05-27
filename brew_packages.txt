@@ -39,6 +39,7 @@ hebcal
 helm
 htop
 icu4c
+ipcalc
 jansson
 jpeg-turbo
 jq
