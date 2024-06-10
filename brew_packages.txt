@@ -1,6 +1,7 @@
 amazon-ecs-cli
 ansible
 ansible-lint
+argocd
 azure-cli
 bash
 bdw-gc
@@ -60,6 +61,7 @@ libidn2
 libksba
 libnghttp2
 libpng
+libssh
 libssh2
 libtasn1
 libtiff
