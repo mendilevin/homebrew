@@ -93,6 +93,7 @@ openssl@3
 p11-kit
 pcre2
 pinentry
+pipx
 pixman
 popeye
 powerlevel10k
