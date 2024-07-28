@@ -25,6 +25,7 @@ rectangle
 session-manager-plugin
 slack
 temurin
+todoist
 visual-studio-code
 vlc
 vscodium
