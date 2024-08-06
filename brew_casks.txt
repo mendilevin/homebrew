@@ -30,4 +30,5 @@ visual-studio-code
 vlc
 vscodium
 warp
+whatsapp
 zoom
