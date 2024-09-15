@@ -41,6 +41,7 @@ helm
 htop
 icu4c
 ipcalc
+ipinfo-cli
 jansson
 jpeg-turbo
 jq
@@ -122,6 +123,7 @@ telnet
 terraform
 terraformer
 terragrunt
+testssl
 tree
 tree-sitter
 unbound
