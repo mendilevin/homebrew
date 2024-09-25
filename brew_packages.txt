@@ -108,6 +108,7 @@ python-certifi
 python-cryptography
 python-dateutil
 python-jmespath
+python-packaging
 python-s3transfer
 python-setuptools
 python-urllib3
