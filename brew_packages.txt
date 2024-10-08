@@ -40,6 +40,7 @@ hebcal
 helm
 htop
 icu4c
+icu4c@75
 ipcalc
 ipinfo-cli
 jansson
@@ -87,7 +88,6 @@ node
 npth
 oniguruma
 openjdk
-openldap
 openssh
 openssl@1.1
 openssl@3
@@ -110,7 +110,6 @@ python-dateutil
 python-jmespath
 python-packaging
 python-s3transfer
-python-setuptools
 python-urllib3
 python@3.10
 python@3.11
