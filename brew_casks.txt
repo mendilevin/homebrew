@@ -10,10 +10,12 @@ dozer
 drawio
 google-drive
 grammarly-desktop
+home-assistant
 iterm2
 karabiner-elements
 keyboard-maestro
 lens
+logi-options+
 maccy
 microsoft-auto-update
 microsoft-teams
