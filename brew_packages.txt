@@ -41,6 +41,7 @@ helm
 htop
 icu4c
 icu4c@75
+icu4c@76
 ipcalc
 ipinfo-cli
 jansson
