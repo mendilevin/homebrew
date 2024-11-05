@@ -83,6 +83,7 @@ little-cms2
 lz4
 lzo
 maven
+minikube
 mpdecimal
 ncurses
 nettle
