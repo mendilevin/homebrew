@@ -40,7 +40,6 @@ harfbuzz
 hebcal
 helm
 htop
-icu4c
 icu4c@76
 ipcalc
 ipinfo-cli
@@ -128,9 +127,11 @@ terraform
 terraformer
 terragrunt
 testssl
+tmux
 tree
 tree-sitter
 unbound
+utf8proc
 watch
 wget
 xorgproto
