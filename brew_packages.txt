@@ -47,6 +47,7 @@ jansson
 jpeg-turbo
 jq
 k9s
+kafka
 krew
 kube-ps1
 kubectx
@@ -140,6 +141,7 @@ yadm
 yamlfmt
 yamllint
 yq
+zookeeper
 zsh-autocomplete
 zsh-autosuggestions
 zstd
