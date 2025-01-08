@@ -41,6 +41,7 @@ hebcal
 helm
 htop
 icu4c@76
+iftop
 ipcalc
 ipinfo-cli
 jansson

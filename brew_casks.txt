@@ -11,6 +11,7 @@ drawio
 google-drive
 grammarly-desktop
 home-assistant
+intellij-idea
 iterm2
 karabiner-elements
 keyboard-maestro
