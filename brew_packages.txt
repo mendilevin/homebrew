@@ -35,6 +35,7 @@ gnupg
 gnutls
 go
 graphite2
+grep
 groovy
 harfbuzz
 hebcal
