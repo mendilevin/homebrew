@@ -13,6 +13,7 @@ grammarly-desktop
 home-assistant
 intellij-idea
 iterm2
+jordanbaird-ice
 karabiner-elements
 keyboard-maestro
 lens
