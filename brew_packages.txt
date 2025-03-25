@@ -47,6 +47,7 @@ helm
 highway
 htop
 icu4c@76
+icu4c@77
 iftop
 imagemagick
 imath
